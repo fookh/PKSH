@@ -1,0 +1,328 @@
+exit
+
+cat << EOF
+
+cat << EOF
+
+cat << EOF
+
+cat << EOF
+
+exit
+
+ls
+
+cat << EOF
+
+cat << EOF
+
+cat << EOF
+
+cat << EOF
+
+cat << EOFFFFsalut ^^
+
+ls
+
+exi
+
+exit
+
+ls '
+
+ok
+
+'
+
+ls \
+
+ls\'
+
+ls \'
+
+ls \''
+
+ '
+
+ls \\\
+
+cat << EOF
+
+cat << EOF
+
+cat << EOF
+
+cat << EOF
+
+cat << EOF
+
+cat << EOF
+
+cat << EOF
+
+cat << EOF
+
+cat << EOF
+
+exit
+
+cat << EOF
+
+cat << EOF
+
+cat << EOF
+
+cat << EOF
+
+echo \
+
+echo ''
+
+echo '"'
+
+echo '"'"
+
+'
+
+"
+
+echo '
+
+'
+
+echo \'
+
+echo \"
+
+echo \""""""""""""
+
+"
+
+echo \
+
+'
+
+'
+
+echo \\\\\\\\\\\\\\
+
+echo :::::::::::::
+
+TUTU=\'hello
+
+echo $TUTU
+
+TUTU=\'hello'
+
+'
+
+echo $TUTU
+
+env
+
+set --loc
+
+OKOK=salut
+
+set --loc
+
+set
+
+cat << $TUTU
+
+cat << $TUTU
+
+cat << *
+
+cat > 'ok
+
+'
+
+ls
+
+cat ok
+
+ 
+
+rm ok
+
+ls
+
+\$toto=koko
+
+export \$toto=koko
+
+\
+
+'
+
+'
+
+\
+
+\
+
+'
+
+'
+
+env 'ls'
+
+env 'ls\'
+
+env 'ls\';
+
+ls 1>&2 2>&3 3>&1 | cat -e
+
+ls 1>&2 2>&3 3>&1 | cat -e >ici
+
+ls
+
+rm ici
+
+ls 1>&2 2>&3 3>&1 | cat -e >ici
+
+ls 1>&2 12>&2 13>&1 | cat -e >ici
+
+ls 1>&2 14>&2 13>&1 | cat -e >ici
+
+ls 1>&2 14>&2 13>&1 | cat -e
+
+ls 1>&2 14>&2 13>&1 45>&13 | cat -e
+
+ls 1>&2 14>&2 13>&1 5>&13 | cat -e
+
+ls 1>&2 14>&2 13>&1 45>&13 | cat -e
+
+ls 45>&13 | cat -e
+
+ls 4555555555555555555>&13 | cat -e
+
+ls 4555555555555555555>&135555555555555 | cat -e
+
+ls 45555555555555555>&135555555555555 | cat -e
+
+ls 4555555555555555>&135555555555555 | cat -e
+
+ls 45555555555555555>&135555555555555 | cat -e
+
+ls 4555555555555>&135555555555555 | cat -e
+
+ls 455555555555>&135555555555555 | cat -e
+
+ls 45555555555>&135555555555555 | cat -e
+
+ls 4555555555>&135555555555555 | cat -e
+
+ls 1>&135555555555555 | cat -e
+
+ls 1>&13555555555555544 | cat -e
+
+ls 1>13555555555555544 | cat -e
+
+ls 1>3 | cat -e
+
+ls
+
+ls 1>34444444444444 | cat -e
+
+ls 1>3444444444444 | cat -e
+
+ls 1>344444444444 | cat -e
+
+ls
+
+rm 3
+
+rm 847060764 
+
+l
+
+ls
+
+ls 1>34444444 | cat -e
+
+rm 34444444 
+
+ls
+
+ls 1>34444444 | cat -e | cat -e | cat-e
+
+ls 1>34444444 | cat -e | cat -e | cat -e
+
+rm 34444444 
+
+ls 2>34444444 | cat -e | cat -e | cat -e
+
+rm 34444444 
+
+ls
+
+ls
+
+rm -rf 42sh.dSYM/
+
+ls
+
+echo '~'
+
+echo '~pcha'
+
+echo '~pchadeni'
+
+echo ~pchadeni
+
+echo "~pchadeni"
+
+echo ~pchadeni
+
+echo ~pchadeni/Library/
+
+echo ~/pchadeni/Library
+
+exit
+
+cat << EOF
+
+cat << EOF
+
+cat << EOF
+
+cat << EOF
+
+cat << EOF
+
+cat -e << EOF
+
+exit
+
+exit
+
+isejfiesjf
+
+isejfisejf
+
+siejfisejf
+
+sigjisejsef
+
+ajfiefj
+
+ijsegijsegijse'
+
+seigjseigjseigseigjseigsejigjesigjseigjesigjseigjsegijafesligjseglijeslgijsegilesjgilsejglisejgilsejgilsegjseilgjilsejgeisjgseigjseigesjiesgjesg'
+
+exit
+
+ls
+
+exit
+
+languagesetup
+
+exit
+
+languagesetup
+
+exit
+
